@@ -92,12 +92,13 @@ After training:
 
 - Training Accuracy: ~91%
 - Validation Accuracy: ~93%
+- Test Accuracy = ~93%
 
 The validation accuracy is slightly higher than training accuracy, which indicates good generalization and no significant overfitting.
 
 ---
 
-## 🔮 Prediction Example
+##  Prediction Example
 
 The model can take a new image and predict its class
 
